@@ -1,3 +1,5 @@
+//Problem: Write a program to find the maximum and minimum values present in a given array of integers.
+
 #include <stdio.h>
 
 int main() {
@@ -27,4 +29,5 @@ int main() {
     printf("Min: %d", min);
 
     return 0;
+
 }
